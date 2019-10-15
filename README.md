@@ -20,6 +20,10 @@ provides links to their docs so you can adjust them to your fits. If you think
 something can be explain in a more generic way without loosing its essence, I'm
 open for reviews and pull-requests :-)
 
+This is not the only Node.js best practices guide you can found, if you want one
+so big can blow your mind and transform you in a better developer (and maybe a
+better person) take a look at https://github.com/goldbergyoni/nodebestpractices.
+
 ## Sponsors
 - [Bpost](https://www.bpost.be)
 - [Tata Consultancy Services](https://www.tcs.com)
