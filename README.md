@@ -28,4 +28,6 @@ better person) take a look at https://github.com/goldbergyoni/nodebestpractices.
 - [Bpost](https://www.bpost.be)
 - [Tata Consultancy Services](https://www.tcs.com)
 
+## License
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Node.js best practices</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/piranna" property="cc:attributionName" rel="cc:attributionURL">Jesús Leganés-Combarro 'piranna'</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License</a>.
