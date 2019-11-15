@@ -1,13 +1,20 @@
 # Node.js best practices
 
+Project-wide best practices and recomendations for Node.js
+
 (c) 2019 Jesús Leganés-Combarro 'piranna'
 
 I've done several code auditories in the past to diferent companies, and found
 some common errors and patterns that decrease code quality and increase their
 technical debt. This is a guide and recopilation of best practices to try to
-minimize and fix them.
+minimize and fix them. This is not the only Node.js best practices guide you can
+found, if you want one so big can blow your mind and transform you in a better
+developer (and maybe a better person) take a look at
+https://github.com/goldbergyoni/nodebestpractices, but as far as I know, it's
+the only one that don't focus only on code but also consider best practices
+applied to the all project.
 
-This document was originally published at
+This book was originally published at
 https://github.com/piranna/Node.js-best-practices
 
 **Disclaimer**: advices provided here are based on my own experience and could
@@ -19,10 +26,6 @@ way, this document don't provide info about how to use the diferent tools, but
 provides links to their docs so you can adjust them to your fits. If you think
 something can be explain in a more generic way without loosing its essence, I'm
 open for reviews and pull-requests :-)
-
-This is not the only Node.js best practices guide you can found, if you want one
-so big can blow your mind and transform you in a better developer (and maybe a
-better person) take a look at https://github.com/goldbergyoni/nodebestpractices.
 
 ## Sponsors
 - [Bpost](https://www.bpost.be)
