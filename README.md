@@ -1,4 +1,4 @@
-# Node.js best practices
+# Best practices for Node.js projects
 
 Project-wide best practices and recomendations for Node.js
 
